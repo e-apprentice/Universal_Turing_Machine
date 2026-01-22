@@ -1,2 +1,2 @@
 # Universal_Turing_Machine
-The implemntation of a Universal Turing Machine
+The implementation of a Universal Turing Machine
