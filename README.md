@@ -4,7 +4,7 @@ This project presents a physical implementation of a Universal Turing Machine (U
 
 The system processes input encoded via punched cards and executes state transitions defined by a transition table, simulating the theoretical model of a Universal Turing Machine in real-world hardware.
 
-# Technologies Used
+## Technologies Used
 
 Arduino IDE / Embedded C++
 ESP32-CAM
@@ -12,7 +12,7 @@ Stepper Motor Control
 Basic Image Processing
 Digital logic and finite state machine design
 
-# The concept behind the program
+## The concept behind the program
 
 Assume the following string:
 0 F R 0 F L 0
@@ -37,11 +37,11 @@ Other symbols not used here are:
 
 Save the program as a .turing file and run it using the interpreter. Instruction below.
 
-# Compile
+## Compile
 
 Compilation is done with cmake
 
-# Run
+## Run
 
 ```
 bin/tlang programs/loop.turing
