@@ -6,10 +6,10 @@ The system processes input encoded via punched cards and executes state transiti
 
 ## Technologies Used
 
-Arduino IDE / Embedded C++
-ESP32-CAM
-Stepper Motor Control
-Basic Image Processing
+Arduino IDE / Embedded C++,
+ESP32-CAM,
+Stepper Motor Control,
+Basic Image Processing,
 Digital logic and finite state machine design
 
 ## The concept behind the program
